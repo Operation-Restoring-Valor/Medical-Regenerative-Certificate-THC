@@ -7,7 +7,7 @@ Operation Restoring Valor: The Nuclear Shield
 
 Modern warfare is an environment of invisible hazards. From the depleted uranium rounds used by our tank crews to the nuclear propulsion systems of our submarines, our service members are constantly in proximity to ionizing radiation. This exposure creates a massive long-term liability for the Department of Defense: **Cancer.**
 
-Under **Operation Restoring Valor**, we assert that the strategic use of **Sativa** (high pH/electron donor) is a critical countermeasure. By authorizing the **Medical Regenerative Certificate** for Sativa use, we are not just treating soldiers; we are installing a biological shield against radiation damage, thereby reducing the probability of future VA claims and preserving our fighting force.
+The U.S. DoD assert that the strategic use of **Sativa** (high pH/electron donor) is a critical countermeasure. By authorizing the **Medical Regenerative Certificate** for Sativa use, we are not just treating soldiers; we are installing a biological shield against radiation damage, thereby reducing the probability of future VA claims and preserving our fighting force.
 
 **The Mechanism: Electron Donation vs. Ionizing Radiation**
 -----------------------------------------------------------
