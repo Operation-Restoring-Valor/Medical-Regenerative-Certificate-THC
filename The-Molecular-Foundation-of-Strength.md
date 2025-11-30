@@ -5,7 +5,7 @@ The Molecular Foundation of Strength: Electrons, Covalent Bonds, and Regenerativ
 
 To understand how we build a stronger soldier, we must look beyond the gym and into the atom. The human body is not just a biological machine; it is an electrical one. Every thought, every movement, and every healing process is driven by the flow of **electrons**.
 
-Under **Operation Restoring Valor**, our approach to regenerative medicine---including the strategic use of **Sativa** (high pH/electron donor) protocols---is based on the fundamental physics of how tissues like bone and muscle are constructed and repaired.
+Within the modern DoD, our approach to regenerative medicine---including the strategic use of **Sativa** (high pH/electron donor) protocols---is based on the fundamental physics of how tissues like bone and muscle are constructed and repaired.
 
 **The Covalent Bond: The Architecture of Density**
 --------------------------------------------------
