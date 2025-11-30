@@ -50,7 +50,7 @@ Access to the Medical Regenerative Certificate is not a right; it is a privilege
 
 -   **Security Clearance Review:** Every evaluation for this certificate includes a full **Security Clearance Review**.
 
--   **The Trust Standard:** If we do not trust a soldier with our secrets, we certainly do not trust them with THC.
+-   **The Trust Standard:** If we do not trust a soldier, we certainly do not trust them with THC.
 
 -   **Revocation:** Any violation of the "Sativa Only" rule or usage off Federal Property without authorization results in immediate revocation.
 
