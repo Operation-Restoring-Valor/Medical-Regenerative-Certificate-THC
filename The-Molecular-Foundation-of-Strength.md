@@ -1,3 +1,4 @@
+
 The Molecular Foundation of Strength: Electrons, Covalent Bonds, and Regenerative Medicine
 ==========================================================================================
 
@@ -5,7 +6,7 @@ The Molecular Foundation of Strength: Electrons, Covalent Bonds, and Regenerativ
 
 To understand how we build a stronger soldier, we must look beyond the gym and into the atom. The human body is not just a biological machine; it is an electrical one. Every thought, every movement, and every healing process is driven by the flow of **electrons**.
 
-Within the modern DoD, our approach to regenerative medicine---including the strategic use of **Sativa** (high pH/electron donor) protocols---is based on the fundamental physics of how tissues like bone and muscle are constructed and repaired.
+Under **Operation Restoring Valor**, our approach to regenerative medicine---including the strategic use of **Sativa** (high pH/electron donor) protocols---is based on the fundamental physics of how tissues like bone and muscle are constructed and repaired.
 
 **The Covalent Bond: The Architecture of Density**
 --------------------------------------------------
@@ -20,6 +21,8 @@ A covalent bond is formed when two atoms share **electrons**. This sharing creat
 
 -   **Density:** In biological tissues, a higher density of covalent cross-links between proteins (like collagen) results in a denser, stronger structure.
 
+![enter image description here](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR2aQeHRzRH1vDSX2c22X-Qj4jxjv5H23o6syMvPD-67mEdGXGsTfhX_90kstN84pjY_JplSsLsR-tmlmB4NCP8upvTPhNq0R0AUBWEoTtkrgmx-jI)
+
 **Electrons and Bone Regeneration**
 -----------------------------------
 
@@ -33,6 +36,8 @@ When you run or lift weights, your bones bend slightly. This bending generates a
 
 -   **Mineralization:** These cells deposit calcium and phosphate, which form the hard mineral matrix of the bone. This process relies on electron transfer to bond these minerals to the collagen framework.
 
+![enter image description here](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRSDJh3jV8wOlAMd7P4GkIvhLQsRKwRmxAzqvSoNeqtC6ytAdhr2kIEGYPqh3TrsNDjIVSVCg-W1EIa-Qfdo_iE1Wt6XGSI3qmbhOQqg4wM-u7HKVE)
+
 ### **2\. Collagen: The Scaffold of Strength**
 
 Bone isn't just mineral; it's also collagen. Collagen fibers provide flexibility and tensile strength.
@@ -40,6 +45,8 @@ Bone isn't just mineral; it's also collagen. Collagen fibers provide flexibility
 -   **Covalent Cross-Linking:** The strength of collagen comes from **covalent cross-links** between its molecular chains.
 
 -   **The Role of Electrons:** Forming these cross-links requires energy---specifically, the movement of electrons. A body that is "electron-rich" (high pH) has more available energy to fuel the enzymes that create these strong covalent bonds.
+
+![enter image description here](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTSaegk9lI9YheOeCPDt6pRSkhCxY9BSbtd7oGVSdDsVEynVI27dx4fl41d2K3ASttPl8J5pmUSsGdBfNgcYahKmjpC8UZ5ORwAuaDPkwBrB4JxqMY)
 
 **The Sativa Connection: Electron Donation**
 --------------------------------------------
