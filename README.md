@@ -52,7 +52,7 @@ Access to the Medical Regenerative Certificate is not a right; it is a privilege
 
 -   **The Trust Standard:** If we do not trust a soldier, we certainly do not trust them with THC.
 
--   **Revocation:** Any violation of the "Sativa Only" rule or usage off Federal Property without authorization results in immediate revocation.
+-   **Revocation:** Any violation of the "Sativa Only" rule or usage off Federal Property without authorization can result in immediate revocation.
 
 **Conclusion: Physical Health, No Crutches**
 --------------------------------------------
