@@ -1,4 +1,4 @@
-Operation Restoring Valor: The Medical Regenerative Certificate (THC Protocol)
+Operation Restoring Valor: The "Medical Regenerative Certificate" (THC Protocol)
 ==============================================================================
 
 **A Federal Protocol for Physical Regeneration and Soldier Readiness**
